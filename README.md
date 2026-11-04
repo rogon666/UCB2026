@@ -1,4 +1,4 @@
-## Introducción al Aprendizaje Profundo
+## Aprendizaje Profundo I
 ## (Deep Learning I)
 
 El objetivo de este curso es brindar conocimientos introductorios sobre Aprendizaje Profundo, específicamente conceptos teóricos y su implementación práctica con códigos en Python. El curso comenzará revisando conceptos fundamentales y discutirá cómo evolucionó el campo desde las redes neuronales no profundas hasta llegar a las redes profundas y otras arquitecturas de aprendizaje profundo. Se discutirán los principales beneficios de aprendizaje profundo frente a otras técnicas de aprendizaje automático, así como también las limitaciones del aprendizaje profundo y las técnicas para entrenar y evaluar apropiadamente un modelo de aprendizaje profundo.
